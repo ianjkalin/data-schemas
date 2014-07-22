@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: 311 App Schema
+title: City Permit Data Schema
 type: schema
 ---
 
